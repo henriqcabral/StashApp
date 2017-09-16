@@ -1,1 +1,13 @@
 /* Empty. Add your own CSS if you like */
+.button_align_center {
+  text-align: center;
+}
+
+.stash_time_left {
+  text-align: center;
+  font-size: 80px;
+}
+
+.button_span_top {
+  padding: 30px;
+}
